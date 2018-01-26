@@ -41,6 +41,7 @@ Curated list of Brain Computer Interface related Resources
 ## Relevant Companies
 
 - [NeuraLink](https://www.neuralink.com/)
+- [Kernel](https://kernel.co/)
 - [Nihon Kohden Corporation](http://www.nihonkohden.com/)
 - [Advanced Brain Monitoring, Inc](http://www.advancedbrainmonitoring.com/)
 - [Mind Solutions, Inc](https://www.youtube.com/channel/UCr30VDgcmSME3R-9JKrMWNg)

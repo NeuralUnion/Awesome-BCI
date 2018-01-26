@@ -42,7 +42,7 @@ Curated list of Brain Computer Interface related Resources
 
 - [NeuraLink](https://www.neuralink.com/)
 - [Nihon Kohden Corporation](http://www.nihonkohden.com/)
-- [Advanced Brain Monitoring, Inc]{http://www.advancedbrainmonitoring.com/)
+- [Advanced Brain Monitoring, Inc](http://www.advancedbrainmonitoring.com/)
 - [Mind Solutions, Inc](https://www.youtube.com/channel/UCr30VDgcmSME3R-9JKrMWNg)
 - [Covidien, Plc](http://www.medtronic.com/covidien/en-us/products/brain-monitoring.html)
 - [Compumedics Limited](https://www.compumedics.com.au/)

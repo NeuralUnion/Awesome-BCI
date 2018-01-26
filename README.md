@@ -24,14 +24,9 @@ Curated list of Brain Computer Interface related Resources
 
 ## Segmentation By Type
 
-
-
 - Invasive Brain Computer Interface
-
 - Partially Brain computer Interface
-
 - Non-Invasive Brain computer Interface
-
 
 ## Segmentation By End-User Industry
 
@@ -44,7 +39,6 @@ Curated list of Brain Computer Interface related Resources
 ## Relevant Companies
 
 - [NeuraLink](https://www.neuralink.com/)
-
 - Nihon Kohden Corporation
 - Advanced Brain Monitoring, Inc
 - Mind Solutions, Inc

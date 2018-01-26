@@ -1,2 +1,2 @@
 # Awesome-BCI
-Awesome List of BCI related Resources
+Curated list of Brain Computer Interface related Resources

@@ -16,11 +16,13 @@ Curated list of Brain Computer Interface related Resources
 
 ## Universities with relevant courses
 
-- 
+- [UC San Diego](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
+- [Johns Hopkins](https://ep.jhu.edu/programs-and-courses/585.683-introduction-to-brain-computer-interface)
 
 ## Online resoures to learn
 
-- 
+- [Udemy](https://www.udemy.com/brain-computer-interface/)
+- [Coursera](https://www.coursera.org/learn/synapses/lecture/bd7dF/brain-machine-interface-bmi)
 
 ## Segmentation By Type
 

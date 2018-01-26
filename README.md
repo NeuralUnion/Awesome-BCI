@@ -5,6 +5,21 @@ Curated list of Brain Computer Interface related Resources
 
 - [Wait But Why](https://waitbutwhy.com/2017/04/neuralink.html)
 
+## Books
+
+- Spikes: Exploring the Neural Code, by Fred Rieke
+- Theoretical Neuroscience, by Peter Dayan
+- Dynamical Systems in Neuroscience, by Eugene Izhikevich
+- Biophysics of Computation, by Christof Koch
+
+
+## Papers
+
+- Lebedev, M. A., & Nicolelis, M. A. L. (2006). Brain-machine interfaces: past, present and future. Trends in Neurosciences, 29(9), 536–546. doi:10.1016/j.tins.2006.07.004
+- Carmena, J. M., Lebedev, M. A., Crist, R. E., O'Doherty, J. E., Santucci, D. M., Dimitrov, D. F., Patil, P. G., et al. (2003). Learning to control a brain-machine interface for reaching and grasping by primates. PLoS biology, 1(2), E42. doi:10.1371/journal.pbio.0000042
+- Johnson, M. T., Coltz, J. D., & Ebner, T. J. (1999). Encoding of target direction and speed during visual instruction and arm tracking in dorsal premotor and primary motor cortical neurons. The European journal of neuroscience, 11(12), 4433–4445.
+- Kakei, S., Hoffman, D., & Strick, P. (1999). Muscle and movement representations in the primary motor cortex. Science (New York, NY), 285, 2136–2139.
+- Georgopoulos, A. P., Lurito, J. T., Petrides, M., Schwartz, A. B., & Massey, J. T. (1989). Mental rotation of the neuronal population vector. Science (New York, NY), 243(4888), 234–236.
 
 ## Skills the domain require
 

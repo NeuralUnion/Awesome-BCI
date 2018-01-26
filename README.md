@@ -31,6 +31,16 @@ Curated list of Brain Computer Interface related Resources
 
 ## Universities with relevant courses
 
+- [Drexel University](http://drexel.edu/medicine/academics/graduate-school/neuroscience/)
+- [University of Washington](http://depts.washington.edu/neurogrd/)
+- [University of Minnesota – Twin Cities](http://www.neuroscience.umn.edu/)
+- [University of California – San Diego](https://apply.grad.ucsd.edu/departments/neurosciences)
+- [Brandeis University](http://www.bio.brandeis.edu/grad/neuro/neuro_ms.html)
+- [University of Rochester](https://www.hajim.rochester.edu/bme/graduate/index.html)
+- [Rochester Institute of Technology](http://www.rit.edu/programs/human-computer-interaction-ms)
+- [Northwestern University](http://www.mccormick.northwestern.edu/biomedical/graduate/)
+- [Colorado State University](http://www.cs.colostate.edu/eeg/main/about)
+- [Rice University](https://eceweb.rice.edu/neuroe)
 - [UC San Diego](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
 - [Johns Hopkins](https://ep.jhu.edu/programs-and-courses/585.683-introduction-to-brain-computer-interface)
 
